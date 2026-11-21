@@ -1,0 +1,13 @@
+﻿warehouse_id,warehouse_label,governorate_ar,warehouse_kind,capacity_units
+WH01,مخزن مركزي القاهرة,القاهرة,Central DC,262541
+WH02,مخزن التوزيع الإسكندرية,الإسكندرية,Regional DC,119583
+WH03,مخزن التوزيع الجيزة,الجيزة,Regional DC,143948
+WH04,مخزن التوزيع الدلتا,الدقهلية,Regional DC,114899
+WH05,مخزن التوزيع الصعيد,المنيا,Regional DC,96050
+WH06,مخزن القطن الخام,القاهرة,Raw materials,138566
+WH07,مخزن المنتج التام,القاهرة,Finished goods,307157
+WH08,مخزن المرتجعات,القاهرة,Returns,332021
+WH09,مخزن توزيع الشرقية,الشرقية,Regional DC,159485
+WH10,مخزن توزيع البحيرة,البحيرة,Regional DC,111800
+WH11,مخزن توزيع الغربية,الغربية,Regional DC,332684
+WH12,مخزن توزيع القناة,الإسماعيلية,Regional DC,299463

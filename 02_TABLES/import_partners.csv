@@ -1,0 +1,17 @@
+﻿import_partner_id,partner_name,country,goods_category,shipping_terms
+IMP001,Import Partner 001,Türkiye,Fabric & machinery,CIF
+IMP002,Import Partner 002,China,Fabric & machinery,FOB
+IMP003,Import Partner 003,Pakistan,Accessories / packaging,FOB
+IMP004,Import Partner 004,China,Fabric & machinery,CIF
+IMP005,Import Partner 005,Türkiye,Fabric & machinery,CIF
+IMP006,Import Partner 006,Vietnam,Accessories / packaging,CIF
+IMP007,Import Partner 007,Türkiye,Fabric & machinery,FOB
+IMP008,Import Partner 008,India,Fabric & machinery,EXW
+IMP009,Import Partner 009,Pakistan,Accessories / packaging,CIF
+IMP010,Import Partner 010,Vietnam,Fabric & machinery,EXW
+IMP011,Import Partner 011,Italy,Fabric & machinery,CIF
+IMP012,Import Partner 012,China,Accessories / packaging,FOB
+IMP013,Import Partner 013,Pakistan,Fabric & machinery,EXW
+IMP014,Import Partner 014,India,Fabric & machinery,EXW
+IMP015,Import Partner 015,Pakistan,Accessories / packaging,CIF
+IMP016,Import Partner 016,China,Fabric & machinery,EXW

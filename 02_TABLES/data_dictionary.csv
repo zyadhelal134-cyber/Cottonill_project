@@ -1,0 +1,170 @@
+﻿table_name,field_name,description
+branches.csv,branch_id,branch id
+branches.csv,branch_name_ar,branch name ar
+branches.csv,governorate_ar,governorate ar
+branches.csv,city_ar,city ar
+branches.csv,address_ar,address ar
+branches.csv,retail_location_type,retail location type
+branches.csv,opening_date,opening date
+branches.csv,source_url,source url
+customers.csv,customer_id,customer id
+customers.csv,customer_segment,customer segment
+customers.csv,customer_name_ar,customer name ar
+customers.csv,governorate_ar,governorate ar
+customers.csv,joined_date,joined date
+customers.csv,age_band,age band
+customers.csv,loyalty_tier,loyalty tier
+delivery_shipments.csv,shipment_id,shipment id
+delivery_shipments.csv,sales_order_id,sales order id
+delivery_shipments.csv,ship_date,ship date
+delivery_shipments.csv,delivery_date,delivery date
+delivery_shipments.csv,ship_to_governorate,ship to governorate
+delivery_shipments.csv,carrier,carrier
+delivery_shipments.csv,shipping_fee_EGP,shipping fee EGP
+delivery_shipments.csv,fulfillment_status,fulfillment status
+employees.csv,employee_id,employee id
+employees.csv,employee_name_ar,employee name ar
+employees.csv,branch_id,branch id
+employees.csv,position_en,position en
+employees.csv,hire_date,hire date
+employees.csv,salary_base_EGP_2026,salary base EGP 2026
+factories.csv,factory_id,factory id
+factories.csv,factory_name_ar,factory name ar
+factories.csv,governorate_ar,governorate ar
+factories.csv,production_focus,production focus
+import_partners.csv,import_partner_id,import partner id
+import_partners.csv,partner_name,partner name
+import_partners.csv,country,country
+import_partners.csv,goods_category,goods category
+import_partners.csv,shipping_terms,shipping terms
+import_shipments.csv,import_shipment_id,import shipment id
+import_shipments.csv,import_partner_id,import partner id
+import_shipments.csv,shipment_date,shipment date
+import_shipments.csv,port_name,port name
+import_shipments.csv,container_type,container type
+import_shipments.csv,commodity_class,commodity class
+import_shipments.csv,customs_value_USD,customs value USD
+import_shipments.csv,freight_USD,freight USD
+import_shipments.csv,duty_and_tax_USD,duty and tax USD
+import_shipments.csv,destination_warehouse_id,destination warehouse id
+inventory_transfer_items.csv,transfer_line_id,transfer line id
+inventory_transfer_items.csv,transfer_id,transfer id
+inventory_transfer_items.csv,sku_id,sku id
+inventory_transfer_items.csv,quantity_units,quantity units
+inventory_transfers.csv,transfer_id,transfer id
+inventory_transfers.csv,transfer_date,transfer date
+inventory_transfers.csv,source_warehouse_id,source warehouse id
+inventory_transfers.csv,destination_branch_id,destination branch id
+inventory_transfers.csv,transfer_status,transfer status
+inventory_transfers.csv,transport_cost_EGP,transport cost EGP
+marketing_campaigns.csv,campaign_id,campaign id
+marketing_campaigns.csv,start_date,start date
+marketing_campaigns.csv,end_date,end date
+marketing_campaigns.csv,channel,channel
+marketing_campaigns.csv,target_audience,target audience
+marketing_campaigns.csv,governorate_ar,governorate ar
+marketing_campaigns.csv,budget_EGP,budget EGP
+marketing_campaigns.csv,spend_EGP,spend EGP
+marketing_campaigns.csv,impressions,impressions
+marketing_campaigns.csv,clicks,clicks
+marketing_campaigns.csv,orders_attributed,orders attributed
+monthly_stock.csv,year_month,year month
+monthly_stock.csv,stock_location_id,stock location id
+monthly_stock.csv,stock_location_type,stock location type
+monthly_stock.csv,product_category,product category
+monthly_stock.csv,closing_units,closing units
+monthly_stock.csv,closing_stock_value_EGP,closing stock value EGP
+monthly_stock.csv,stockout_risk_score,stockout risk score
+operating_expenses.csv,expense_id,expense id
+operating_expenses.csv,expense_date,expense date
+operating_expenses.csv,branch_or_department_id,branch or department id
+operating_expenses.csv,expense_category,expense category
+operating_expenses.csv,amount_EGP,amount EGP
+operating_expenses.csv,payment_method,payment method
+operating_expenses.csv,vendor_name,vendor name
+payroll.csv,payroll_id,payroll id
+payroll.csv,employee_id,employee id
+payroll.csv,pay_month,pay month
+payroll.csv,base_salary_EGP,base salary EGP
+payroll.csv,overtime_EGP,overtime EGP
+payroll.csv,bonus_EGP,bonus EGP
+payroll.csv,deductions_EGP,deductions EGP
+payroll.csv,net_paid_EGP,net paid EGP
+products_catalog.csv,product_id,product id
+products_catalog.csv,product_name_ar,product name ar
+products_catalog.csv,category_en,category en
+products_catalog.csv,audience,audience
+products_catalog.csv,listed_price_EGP,listed price EGP
+products_catalog.csv,source_url,source url
+purchase_order_items.csv,po_line_id,po line id
+purchase_order_items.csv,po_id,po id
+purchase_order_items.csv,sku_id,sku id
+purchase_order_items.csv,quantity,quantity
+purchase_order_items.csv,unit_cost_EGP,unit cost EGP
+purchase_order_items.csv,line_cost_EGP,line cost EGP
+purchase_order_items.csv,delivery_date,delivery date
+purchase_orders.csv,po_id,po id
+purchase_orders.csv,po_date,po date
+purchase_orders.csv,supplier_id,supplier id
+purchase_orders.csv,receiving_warehouse_id,receiving warehouse id
+purchase_orders.csv,po_status,po status
+purchase_orders.csv,currency,currency
+purchase_orders.csv,po_subtotal_EGP,po subtotal EGP
+purchase_orders.csv,payment_terms_days,payment terms days
+purchase_orders.csv,po_purpose,po purpose
+sales_order_items.csv,sales_line_id,sales line id
+sales_order_items.csv,sales_order_id,sales order id
+sales_order_items.csv,order_date,order date
+sales_order_items.csv,branch_id,branch id
+sales_order_items.csv,sku_id,sku id
+sales_order_items.csv,product_id,product id
+sales_order_items.csv,quantity,quantity
+sales_order_items.csv,unit_price_EGP,unit price EGP
+sales_order_items.csv,gross_line_EGP,gross line EGP
+sales_order_items.csv,discount_line_EGP,discount line EGP
+sales_order_items.csv,net_line_EGP,net line EGP
+sales_order_items.csv,unit_cost_EGP,unit cost EGP
+sales_order_items.csv,margin_EGP,margin EGP
+sales_orders.csv,sales_order_id,sales order id
+sales_orders.csv,order_date,order date
+sales_orders.csv,branch_id,branch id
+sales_orders.csv,customer_id,customer id
+sales_orders.csv,sales_channel,sales channel
+sales_orders.csv,payment_method,payment method
+sales_orders.csv,items_count,items count
+sales_orders.csv,gross_EGP,gross EGP
+sales_orders.csv,discount_EGP,discount EGP
+sales_orders.csv,net_before_tax_EGP,net before tax EGP
+sales_orders.csv,tax_EGP,tax EGP
+sales_orders.csv,paid_total_EGP,paid total EGP
+sales_orders.csv,status,status
+sales_payments.csv,payment_id,payment id
+sales_payments.csv,sales_order_id,sales order id
+sales_payments.csv,payment_date,payment date
+sales_payments.csv,payment_method,payment method
+sales_payments.csv,amount_EGP,amount EGP
+sales_payments.csv,status,status
+sales_returns.csv,return_id,return id
+sales_returns.csv,sales_order_id,sales order id
+sales_returns.csv,sales_line_id,sales line id
+sales_returns.csv,return_date,return date
+sales_returns.csv,sku_id,sku id
+sales_returns.csv,return_quantity,return quantity
+sales_returns.csv,refund_amount_EGP,refund amount EGP
+sales_returns.csv,reason,reason
+sales_returns.csv,refund_method,refund method
+sku_variants.csv,sku_id,sku id
+sku_variants.csv,product_id,product id
+sku_variants.csv,size,size
+sku_variants.csv,color_ar,color ar
+sku_variants.csv,price_multiplier,price multiplier
+suppliers.csv,supplier_id,supplier id
+suppliers.csv,supplier_name_ar,supplier name ar
+suppliers.csv,material_type,material type
+suppliers.csv,city_country,city country
+suppliers.csv,payment_terms_days,payment terms days
+warehouses.csv,warehouse_id,warehouse id
+warehouses.csv,warehouse_label,warehouse label
+warehouses.csv,governorate_ar,governorate ar
+warehouses.csv,warehouse_kind,warehouse kind
+warehouses.csv,capacity_units,capacity units

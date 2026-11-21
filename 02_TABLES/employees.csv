@@ -1,0 +1,641 @@
+﻿employee_id,employee_name_ar,branch_id,position_en,hire_date,salary_base_EGP_2026
+EMP00001,منى فتحى,BR001,Cashier,10/19/2022,17300
+EMP00002,يوسف عبدالعزيز,BR002,Sales Associate,9/19/2019,14900
+EMP00003,منى حسن,BR003,Sales Associate,1/19/2020,12200
+EMP00004,عمر حسن,BR004,Store Manager,4/19/2023,17200
+EMP00005,رانيا محمود,BR005,Inventory Clerk,11/19/2023,16100
+EMP00006,أسماء عبدالفتاح,BR006,Area Manager,11/19/2023,13800
+EMP00007,طارق الدسوقي,BR007,Cashier,2/19/2021,10400
+EMP00008,أمل حسن,BR008,Sales Associate,3/19/2021,13800
+EMP00009,دعاء الشريف,BR009,Sales Associate,10/19/2019,16900
+EMP00010,عمر محمد,BR010,Store Manager,3/19/2021,7400
+EMP00011,فاطمة محمد,BR011,Inventory Clerk,9/19/2019,13900
+EMP00012,يارا خليل,BR012,Area Manager,12/19/2021,17700
+EMP00013,مصطفى محمد,BR013,Cashier,6/19/2020,8000
+EMP00014,إبراهيم عامر,BR014,Sales Associate,6/19/2020,14100
+EMP00015,مريم عبدالعزيز,BR015,Sales Associate,3/19/2020,14600
+EMP00016,إبراهيم حسن,BR016,Store Manager,12/19/2021,13700
+EMP00017,منى سعيد,BR017,Inventory Clerk,2/19/2022,14000
+EMP00018,دعاء مصطفى,BR018,Area Manager,9/19/2019,11400
+EMP00019,نور شعبان,BR019,Cashier,1/19/2020,17800
+EMP00020,محمود النجار,BR020,Sales Associate,12/19/2019,5800
+EMP00021,يارا فتحى,BR021,Sales Associate,9/19/2020,10300
+EMP00022,سارة جابر,BR022,Store Manager,3/19/2020,18400
+EMP00023,أحمد علي,BR023,Inventory Clerk,1/19/2019,12500
+EMP00024,يوسف الشريف,BR024,Area Manager,2/19/2022,13100
+EMP00025,منى شعبان,BR025,Cashier,5/19/2021,5500
+EMP00026,طارق إبراهيم,BR026,Sales Associate,2/19/2022,17000
+EMP00027,عمر حسن,BR027,Sales Associate,8/19/2020,14900
+EMP00028,حسين السيد,BR028,Store Manager,10/19/2021,13400
+EMP00029,كريم سعيد,BR029,Inventory Clerk,6/19/2021,12300
+EMP00030,منى محمد,BR030,Area Manager,10/19/2022,5600
+EMP00031,أمل سعيد,BR031,Cashier,7/19/2022,16700
+EMP00032,رانيا حمادة,BR032,Sales Associate,2/19/2022,7000
+EMP00033,شريف محمد,BR033,Sales Associate,10/19/2018,8600
+EMP00034,مصطفى فتحى,BR034,Store Manager,2/19/2024,9500
+EMP00035,رانيا إبراهيم,BR035,Inventory Clerk,11/19/2021,14100
+EMP00036,طارق حمادة,BR036,Area Manager,1/19/2019,10400
+EMP00037,يارا فتحى,BR037,Cashier,3/19/2022,7500
+EMP00038,عبدالرحمن حمادة,BR038,Sales Associate,7/19/2023,6000
+EMP00039,عمر مصطفى,BR039,Sales Associate,1/19/2019,8900
+EMP00040,محمد عبدالعزيز,BR040,Store Manager,12/19/2019,13500
+EMP00041,فاطمة محمود,BR041,Inventory Clerk,6/19/2019,7700
+EMP00042,طارق شعبان,BR042,Area Manager,11/19/2022,13300
+EMP00043,علي عبدالفتاح,BR043,Cashier,7/19/2022,16700
+EMP00044,شريف سعيد,BR044,Sales Associate,11/19/2020,14300
+EMP00045,علي سعيد,BR045,Sales Associate,10/19/2022,15400
+EMP00046,أسماء فتحى,BR046,Store Manager,5/19/2022,9700
+EMP00047,مصطفى الدسوقي,BR047,Inventory Clerk,10/19/2019,7800
+EMP00048,أمل شعبان,BR048,Area Manager,11/19/2019,12700
+EMP00049,عمر حمادة,BR049,Cashier,8/19/2021,11900
+EMP00050,سلمى منصور,BR050,Sales Associate,8/19/2023,8800
+EMP00051,محمد خليل,BR051,Sales Associate,6/19/2020,5500
+EMP00052,منى الشرقاوي,BR052,Store Manager,1/19/2020,9700
+EMP00053,سارة محمود,BR053,Inventory Clerk,11/19/2018,5200
+EMP00054,نور شعبان,BR054,Area Manager,11/19/2018,9400
+EMP00055,محمود فتحى,BR055,Cashier,8/19/2020,11200
+EMP00056,إبراهيم حسن,BR056,Sales Associate,10/19/2022,11900
+EMP00057,حسين محمود,BR057,Sales Associate,5/19/2020,8000
+EMP00058,مريم محمود,BR058,Store Manager,6/19/2022,5700
+EMP00059,كريم الدسوقي,BR059,Inventory Clerk,3/19/2021,15100
+EMP00060,عبدالله خليل,BR060,Area Manager,2/19/2024,8600
+EMP00061,يوسف جابر,BR061,Cashier,4/19/2019,11500
+EMP00062,أحمد إبراهيم,BR062,Sales Associate,5/19/2021,10500
+EMP00063,عبدالرحمن علي,BR063,Sales Associate,8/19/2020,14600
+EMP00064,فاطمة محمد,BR064,Store Manager,7/19/2019,9800
+EMP00065,عمر حسن,BR065,Inventory Clerk,8/19/2023,13700
+EMP00066,سلمى علي,BR066,Area Manager,8/19/2020,5800
+EMP00067,كريم منصور,BR067,Cashier,7/19/2021,9200
+EMP00068,سارة محمد,BR068,Sales Associate,2/19/2019,9600
+EMP00069,رانيا إبراهيم,BR069,Sales Associate,3/19/2022,5500
+EMP00070,عمر محمد,BR070,Store Manager,6/19/2021,9400
+EMP00071,يوسف خليل,BR071,Inventory Clerk,10/19/2021,6800
+EMP00072,مصطفى الشريف,BR072,Area Manager,10/19/2020,7500
+EMP00073,أمل عامر,BR073,Cashier,5/19/2023,18100
+EMP00074,أسماء مصطفى,BR074,Sales Associate,5/19/2022,18300
+EMP00075,دعاء الدسوقي,BR075,Sales Associate,1/19/2024,12800
+EMP00076,أمل الدسوقي,BR076,Store Manager,3/19/2021,13000
+EMP00077,مريم النجار,BR077,Inventory Clerk,3/19/2023,6800
+EMP00078,مصطفى النجار,BR078,Area Manager,1/19/2020,13400
+EMP00079,رانيا فتحى,BR079,Cashier,3/19/2024,17300
+EMP00080,إبراهيم عبدالعزيز,BR080,Sales Associate,2/19/2024,14000
+EMP00081,عمر حمادة,BR001,Sales Associate,10/19/2019,7200
+EMP00082,محمود حمادة,BR002,Store Manager,9/19/2019,13500
+EMP00083,عبدالرحمن عبدالعزيز,BR003,Inventory Clerk,9/19/2022,13000
+EMP00084,منى عامر,BR004,Area Manager,2/19/2020,16300
+EMP00085,شريف علي,BR005,Cashier,6/19/2019,14800
+EMP00086,رانيا محمود,BR006,Sales Associate,1/19/2023,9100
+EMP00087,رانيا عامر,BR007,Sales Associate,8/19/2020,14100
+EMP00088,منى عبدالفتاح,BR008,Store Manager,4/19/2020,17800
+EMP00089,أسماء الشرقاوي,BR009,Inventory Clerk,9/19/2019,6500
+EMP00090,محمد عبدالفتاح,BR010,Area Manager,2/19/2023,12300
+EMP00091,عمر فتحى,BR011,Cashier,11/19/2020,6300
+EMP00092,محمد خليل,BR012,Sales Associate,9/19/2022,9100
+EMP00093,نور الشريف,BR013,Sales Associate,6/19/2019,10600
+EMP00094,هبة حسن,BR014,Store Manager,6/19/2019,12400
+EMP00095,سلمى السيد,BR015,Inventory Clerk,7/19/2019,11600
+EMP00096,شريف عامر,BR016,Area Manager,3/19/2023,9200
+EMP00097,خالد عبدالفتاح,BR017,Cashier,6/19/2020,11000
+EMP00098,خالد فتحى,BR018,Sales Associate,1/19/2024,14600
+EMP00099,محمود السيد,BR019,Sales Associate,7/19/2021,16700
+EMP00100,عمر حمادة,BR020,Store Manager,3/19/2019,13000
+EMP00101,علي محمود,BR021,Inventory Clerk,2/19/2019,5600
+EMP00102,هبة علي,BR022,Area Manager,4/19/2023,8700
+EMP00103,أسماء محمود,BR023,Cashier,4/19/2022,16200
+EMP00104,شريف عبدالفتاح,BR024,Sales Associate,5/19/2022,15000
+EMP00105,أحمد الشريف,BR025,Sales Associate,7/19/2022,15100
+EMP00106,علي شعبان,BR026,Store Manager,12/19/2022,16900
+EMP00107,طارق مصطفى,BR027,Inventory Clerk,1/19/2022,9900
+EMP00108,طارق فتحى,BR028,Area Manager,12/19/2020,10300
+EMP00109,مصطفى الشريف,BR029,Cashier,7/19/2020,11700
+EMP00110,أحمد شعبان,BR030,Sales Associate,12/19/2019,16900
+EMP00111,سلمى النجار,BR031,Sales Associate,5/19/2023,15100
+EMP00112,مصطفى الشرقاوي,BR032,Store Manager,8/19/2020,16900
+EMP00113,طارق الدسوقي,BR033,Inventory Clerk,3/19/2019,6000
+EMP00114,أسماء إبراهيم,BR034,Area Manager,3/19/2022,7400
+EMP00115,عبدالرحمن عبدالفتاح,BR035,Cashier,3/19/2021,15000
+EMP00116,خالد الشرقاوي,BR036,Sales Associate,5/19/2021,13700
+EMP00117,مريم خليل,BR037,Sales Associate,1/19/2023,9600
+EMP00118,دعاء عبدالعزيز,BR038,Store Manager,12/19/2022,13800
+EMP00119,رانيا جابر,BR039,Inventory Clerk,11/19/2021,6600
+EMP00120,مصطفى مصطفى,BR040,Area Manager,1/19/2020,17800
+EMP00121,دعاء جابر,BR041,Cashier,9/19/2019,9200
+EMP00122,عبدالله محمود,BR042,Sales Associate,10/19/2019,18300
+EMP00123,أسماء خليل,BR043,Sales Associate,3/19/2023,10500
+EMP00124,نور فتحى,BR044,Store Manager,9/19/2022,13500
+EMP00125,كريم السيد,BR045,Inventory Clerk,2/19/2024,14600
+EMP00126,أمل جابر,BR046,Area Manager,6/19/2021,9700
+EMP00127,منى عبدالفتاح,BR047,Cashier,2/19/2022,6600
+EMP00128,يارا الشرقاوي,BR048,Sales Associate,9/19/2022,6900
+EMP00129,فاطمة الشريف,BR049,Sales Associate,4/19/2020,13100
+EMP00130,نور محمد,BR050,Store Manager,6/19/2020,11800
+EMP00131,هبة السيد,BR051,Inventory Clerk,10/19/2022,15600
+EMP00132,شريف الشرقاوي,BR052,Area Manager,11/19/2020,15000
+EMP00133,علي عامر,BR053,Cashier,6/19/2022,10400
+EMP00134,طارق الشرقاوي,BR054,Sales Associate,7/19/2023,15900
+EMP00135,يوسف عامر,BR055,Sales Associate,2/19/2023,10600
+EMP00136,دعاء علي,BR056,Store Manager,4/19/2021,6000
+EMP00137,شريف خليل,BR057,Inventory Clerk,8/19/2022,11400
+EMP00138,رانيا الشريف,BR058,Area Manager,10/19/2019,6400
+EMP00139,عبدالله إبراهيم,BR059,Cashier,3/19/2024,12700
+EMP00140,عمر مصطفى,BR060,Sales Associate,3/19/2023,7200
+EMP00141,حسين الشريف,BR061,Sales Associate,9/19/2021,9800
+EMP00142,حسين فتحى,BR062,Store Manager,12/19/2023,17100
+EMP00143,مصطفى منصور,BR063,Inventory Clerk,7/19/2020,8300
+EMP00144,سارة سعيد,BR064,Area Manager,9/19/2019,11200
+EMP00145,هبة مصطفى,BR065,Cashier,9/19/2019,6600
+EMP00146,مصطفى الشرقاوي,BR066,Sales Associate,9/19/2020,15500
+EMP00147,أحمد جابر,BR067,Sales Associate,2/19/2021,11200
+EMP00148,محمود فتحى,BR068,Store Manager,8/19/2019,11000
+EMP00149,أحمد جابر,BR069,Inventory Clerk,1/19/2024,5300
+EMP00150,عبدالله إبراهيم,BR070,Area Manager,7/19/2019,7400
+EMP00151,يارا محمود,BR071,Cashier,6/19/2022,6100
+EMP00152,طارق حمادة,BR072,Sales Associate,7/19/2022,13300
+EMP00153,خالد شعبان,BR073,Sales Associate,2/19/2023,9700
+EMP00154,نور الشرقاوي,BR074,Store Manager,1/19/2021,8700
+EMP00155,هبة الشرقاوي,BR075,Inventory Clerk,12/19/2022,17400
+EMP00156,حسين عبدالعزيز,BR076,Area Manager,10/19/2020,10600
+EMP00157,نور الدسوقي,BR077,Cashier,1/19/2022,15300
+EMP00158,رانيا إبراهيم,BR078,Sales Associate,1/19/2019,7700
+EMP00159,دعاء عامر,BR079,Sales Associate,5/19/2021,14900
+EMP00160,إبراهيم النجار,BR080,Store Manager,7/19/2023,12200
+EMP00161,يارا الدسوقي,BR001,Inventory Clerk,9/19/2020,8800
+EMP00162,رانيا عبدالفتاح,BR002,Area Manager,7/19/2020,14500
+EMP00163,يارا حمادة,BR003,Cashier,2/19/2021,15700
+EMP00164,خالد شعبان,BR004,Sales Associate,1/19/2023,14900
+EMP00165,أمل سعيد,BR005,Sales Associate,6/19/2023,10900
+EMP00166,إبراهيم عامر,BR006,Store Manager,3/19/2020,11500
+EMP00167,خالد حسن,BR007,Inventory Clerk,6/19/2022,13500
+EMP00168,عبدالرحمن شعبان,BR008,Area Manager,1/19/2020,5300
+EMP00169,إبراهيم النجار,BR009,Cashier,4/19/2021,9700
+EMP00170,حسين مصطفى,BR010,Sales Associate,5/19/2023,17800
+EMP00171,كريم السيد,BR011,Sales Associate,5/19/2023,11200
+EMP00172,طارق حسن,BR012,Store Manager,9/19/2021,18100
+EMP00173,محمود فتحى,BR013,Inventory Clerk,11/19/2019,11900
+EMP00174,دعاء علي,BR014,Area Manager,12/19/2020,8400
+EMP00175,عمر سعيد,BR015,Cashier,12/19/2022,7800
+EMP00176,يوسف الشريف,BR016,Sales Associate,4/19/2019,6100
+EMP00177,محمود محمد,BR017,Sales Associate,5/19/2019,8200
+EMP00178,منى سعيد,BR018,Store Manager,3/19/2020,14800
+EMP00179,يارا جابر,BR019,Inventory Clerk,2/19/2021,5700
+EMP00180,يارا السيد,BR020,Area Manager,12/19/2022,7800
+EMP00181,طارق جابر,BR021,Cashier,10/19/2023,9600
+EMP00182,رانيا عامر,BR022,Sales Associate,2/19/2022,5400
+EMP00183,عبدالرحمن سعيد,BR023,Sales Associate,9/19/2022,8000
+EMP00184,أمل شعبان,BR024,Store Manager,3/19/2022,6600
+EMP00185,مصطفى الدسوقي,BR025,Inventory Clerk,2/19/2021,15500
+EMP00186,سارة منصور,BR026,Area Manager,7/19/2023,15900
+EMP00187,أمل السيد,BR027,Cashier,8/19/2021,13000
+EMP00188,محمود عامر,BR028,Sales Associate,8/19/2019,14200
+EMP00189,مصطفى عبدالعزيز,BR029,Sales Associate,10/19/2020,7400
+EMP00190,مريم علي,BR030,Store Manager,1/19/2020,14700
+EMP00191,إبراهيم محمود,BR031,Inventory Clerk,11/19/2022,5600
+EMP00192,نور السيد,BR032,Area Manager,9/19/2019,13500
+EMP00193,أحمد علي,BR033,Cashier,4/19/2022,12100
+EMP00194,عمر السيد,BR034,Sales Associate,3/19/2020,10900
+EMP00195,أحمد حمادة,BR035,Sales Associate,12/19/2022,7000
+EMP00196,يارا النجار,BR036,Store Manager,3/19/2021,8300
+EMP00197,أمل مصطفى,BR037,Inventory Clerk,3/19/2020,17400
+EMP00198,أسماء عبدالفتاح,BR038,Area Manager,8/19/2023,11800
+EMP00199,نور الشريف,BR039,Cashier,3/19/2024,7700
+EMP00200,محمد إبراهيم,BR040,Sales Associate,10/19/2020,15000
+EMP00201,يوسف النجار,BR041,Sales Associate,11/19/2018,17600
+EMP00202,نور جابر,BR042,Store Manager,9/19/2020,11600
+EMP00203,رانيا فتحى,BR043,Inventory Clerk,5/19/2020,13400
+EMP00204,يارا جابر,BR044,Area Manager,11/19/2023,11400
+EMP00205,أسماء محمود,BR045,Cashier,8/19/2019,18400
+EMP00206,فاطمة مصطفى,BR046,Sales Associate,11/19/2021,9400
+EMP00207,نور خليل,BR047,Sales Associate,6/19/2023,16400
+EMP00208,شريف الشرقاوي,BR048,Store Manager,6/19/2020,10600
+EMP00209,عمر الشرقاوي,BR049,Inventory Clerk,12/19/2023,17200
+EMP00210,سلمى علي,BR050,Area Manager,8/19/2022,18100
+EMP00211,منى خليل,BR051,Cashier,11/19/2023,7200
+EMP00212,مريم محمد,BR052,Sales Associate,7/19/2021,13000
+EMP00213,هبة علي,BR053,Sales Associate,5/19/2019,12500
+EMP00214,طارق علي,BR054,Store Manager,11/19/2021,7800
+EMP00215,أمل إبراهيم,BR055,Inventory Clerk,1/19/2021,10500
+EMP00216,يارا حسن,BR056,Area Manager,4/19/2019,5700
+EMP00217,أمل سعيد,BR057,Cashier,1/19/2024,14900
+EMP00218,يوسف حسن,BR058,Sales Associate,7/19/2022,15500
+EMP00219,دعاء شعبان,BR059,Sales Associate,10/19/2020,10100
+EMP00220,دعاء عامر,BR060,Store Manager,5/19/2022,7700
+EMP00221,دعاء محمد,BR061,Inventory Clerk,11/19/2022,11700
+EMP00222,دعاء شعبان,BR062,Area Manager,5/19/2021,6500
+EMP00223,علي مصطفى,BR063,Cashier,11/19/2022,12700
+EMP00224,إبراهيم الشريف,BR064,Sales Associate,7/19/2021,8200
+EMP00225,سلمى علي,BR065,Sales Associate,5/19/2022,17400
+EMP00226,أسماء السيد,BR066,Store Manager,1/19/2024,15700
+EMP00227,حسين إبراهيم,BR067,Inventory Clerk,7/19/2021,15800
+EMP00228,خالد سعيد,BR068,Area Manager,8/19/2020,16600
+EMP00229,أسماء الشرقاوي,BR069,Cashier,10/19/2020,8900
+EMP00230,أحمد الدسوقي,BR070,Sales Associate,2/19/2022,15400
+EMP00231,عبدالرحمن منصور,BR071,Sales Associate,7/19/2019,6800
+EMP00232,فاطمة حسن,BR072,Store Manager,6/19/2022,7400
+EMP00233,فاطمة شعبان,BR073,Inventory Clerk,10/19/2020,14200
+EMP00234,محمود عبدالفتاح,BR074,Area Manager,3/19/2022,18200
+EMP00235,رانيا فتحى,BR075,Cashier,1/19/2023,11200
+EMP00236,منى الدسوقي,BR076,Sales Associate,8/19/2019,10100
+EMP00237,عمر الشرقاوي,BR077,Sales Associate,5/19/2022,7500
+EMP00238,دعاء الشرقاوي,BR078,Store Manager,6/19/2022,18400
+EMP00239,أسماء عامر,BR079,Inventory Clerk,6/19/2019,9600
+EMP00240,أحمد محمود,BR080,Area Manager,4/19/2019,8600
+EMP00241,هبة سعيد,BR001,Cashier,2/19/2019,12900
+EMP00242,يوسف محمد,BR002,Sales Associate,11/19/2020,8300
+EMP00243,حسين مصطفى,BR003,Sales Associate,12/19/2022,16700
+EMP00244,يوسف شعبان,BR004,Store Manager,5/19/2023,9600
+EMP00245,طارق جابر,BR005,Inventory Clerk,12/19/2023,16000
+EMP00246,علي محمد,BR006,Area Manager,2/19/2023,10100
+EMP00247,حسين الدسوقي,BR007,Cashier,12/19/2021,16600
+EMP00248,محمود جابر,BR008,Sales Associate,10/19/2023,5800
+EMP00249,يارا شعبان,BR009,Sales Associate,8/19/2020,8000
+EMP00250,عبدالله عامر,BR010,Store Manager,7/19/2019,6500
+EMP00251,نور عبدالفتاح,BR011,Inventory Clerk,2/19/2024,17700
+EMP00252,أمل النجار,BR012,Area Manager,1/19/2019,16200
+EMP00253,مصطفى خليل,BR013,Cashier,9/19/2020,10600
+EMP00254,رانيا الدسوقي,BR014,Sales Associate,4/19/2021,17100
+EMP00255,أحمد فتحى,BR015,Sales Associate,8/19/2023,14500
+EMP00256,نور منصور,BR016,Store Manager,1/19/2023,13900
+EMP00257,مصطفى علي,BR017,Inventory Clerk,3/19/2022,15000
+EMP00258,حسين الشرقاوي,BR018,Area Manager,2/19/2020,13900
+EMP00259,محمود علي,BR019,Cashier,8/19/2022,17300
+EMP00260,أسماء شعبان,BR020,Sales Associate,5/19/2020,11300
+EMP00261,فاطمة السيد,BR021,Sales Associate,9/19/2020,13100
+EMP00262,عبدالله الدسوقي,BR022,Store Manager,4/19/2020,14500
+EMP00263,حسين الشريف,BR023,Inventory Clerk,4/19/2022,12100
+EMP00264,علي مصطفى,BR024,Area Manager,12/19/2021,5300
+EMP00265,يوسف حمادة,BR025,Cashier,1/19/2019,6900
+EMP00266,محمود النجار,BR026,Sales Associate,4/19/2021,12300
+EMP00267,عبدالله الشرقاوي,BR027,Sales Associate,6/19/2022,13600
+EMP00268,هبة عامر,BR028,Store Manager,8/19/2022,6900
+EMP00269,عبدالله منصور,BR029,Inventory Clerk,2/19/2021,10400
+EMP00270,سلمى السيد,BR030,Area Manager,2/19/2021,14500
+EMP00271,عبدالرحمن منصور,BR031,Cashier,5/19/2022,11400
+EMP00272,عبدالرحمن شعبان,BR032,Sales Associate,5/19/2022,7300
+EMP00273,عمر حمادة,BR033,Sales Associate,12/19/2022,13100
+EMP00274,دعاء حسن,BR034,Store Manager,11/19/2020,17800
+EMP00275,حسين شعبان,BR035,Inventory Clerk,4/19/2022,11600
+EMP00276,مصطفى الدسوقي,BR036,Area Manager,6/19/2020,6000
+EMP00277,طارق الشرقاوي,BR037,Cashier,5/19/2021,14000
+EMP00278,أحمد مصطفى,BR038,Sales Associate,11/19/2023,17800
+EMP00279,شريف عبدالعزيز,BR039,Sales Associate,5/19/2021,8900
+EMP00280,أسماء حمادة,BR040,Store Manager,12/19/2022,6700
+EMP00281,منى فتحى,BR041,Inventory Clerk,12/19/2020,15900
+EMP00282,نور علي,BR042,Area Manager,5/19/2023,17500
+EMP00283,علي علي,BR043,Cashier,4/19/2020,6700
+EMP00284,أسماء عبدالفتاح,BR044,Sales Associate,1/19/2023,13300
+EMP00285,خالد فتحى,BR045,Sales Associate,9/19/2023,7500
+EMP00286,خالد علي,BR046,Store Manager,9/19/2023,18400
+EMP00287,سلمى سعيد,BR047,Inventory Clerk,11/19/2020,16000
+EMP00288,يوسف فتحى,BR048,Area Manager,9/19/2020,13700
+EMP00289,علي الدسوقي,BR049,Cashier,9/19/2021,9300
+EMP00290,دعاء شعبان,BR050,Sales Associate,6/19/2020,17700
+EMP00291,أمل منصور,BR051,Sales Associate,3/19/2019,7200
+EMP00292,منى محمد,BR052,Store Manager,8/19/2019,17400
+EMP00293,مصطفى منصور,BR053,Inventory Clerk,3/19/2022,12800
+EMP00294,أمل الشريف,BR054,Area Manager,10/19/2020,12700
+EMP00295,خالد حسن,BR055,Cashier,11/19/2023,17000
+EMP00296,حسين علي,BR056,Sales Associate,11/19/2018,14700
+EMP00297,كريم فتحى,BR057,Sales Associate,10/19/2022,6500
+EMP00298,أمل محمود,BR058,Store Manager,6/19/2023,12100
+EMP00299,عبدالله محمد,BR059,Inventory Clerk,10/19/2020,12400
+EMP00300,عبدالرحمن النجار,BR060,Area Manager,10/19/2020,17700
+EMP00301,فاطمة الشريف,BR061,Cashier,12/19/2019,11500
+EMP00302,عمر الدسوقي,BR062,Sales Associate,12/19/2023,6200
+EMP00303,مصطفى عامر,BR063,Sales Associate,7/19/2022,8300
+EMP00304,دعاء الدسوقي,BR064,Store Manager,6/19/2022,17500
+EMP00305,يارا مصطفى,BR065,Inventory Clerk,8/19/2020,5900
+EMP00306,أسماء عبدالفتاح,BR066,Area Manager,5/19/2020,18200
+EMP00307,عبدالرحمن النجار,BR067,Cashier,5/19/2020,5700
+EMP00308,دعاء خليل,BR068,Sales Associate,6/19/2022,17000
+EMP00309,منى الدسوقي,BR069,Sales Associate,2/19/2019,11900
+EMP00310,مريم عامر,BR070,Store Manager,6/19/2021,7200
+EMP00311,طارق سعيد,BR071,Inventory Clerk,8/19/2023,9600
+EMP00312,منى علي,BR072,Area Manager,5/19/2020,6300
+EMP00313,أمل خليل,BR073,Cashier,7/19/2021,15600
+EMP00314,إبراهيم عامر,BR074,Sales Associate,4/19/2019,16800
+EMP00315,منى شعبان,BR075,Sales Associate,7/19/2021,14800
+EMP00316,كريم فتحى,BR076,Store Manager,11/19/2020,12500
+EMP00317,خالد حمادة,BR077,Inventory Clerk,8/19/2020,6300
+EMP00318,هبة شعبان,BR078,Area Manager,8/19/2021,16300
+EMP00319,فاطمة عبدالفتاح,BR079,Cashier,11/19/2019,9900
+EMP00320,كريم فتحى,BR080,Sales Associate,10/19/2018,11900
+EMP00321,هبة عبدالفتاح,BR001,Sales Associate,8/19/2022,8300
+EMP00322,منى فتحى,BR002,Store Manager,9/19/2023,18000
+EMP00323,محمد النجار,BR003,Inventory Clerk,8/19/2022,7000
+EMP00324,طارق عبدالعزيز,BR004,Area Manager,4/19/2022,16000
+EMP00325,علي عامر,BR005,Cashier,11/19/2020,17800
+EMP00326,عبدالله حمادة,BR006,Sales Associate,6/19/2021,18000
+EMP00327,مريم عامر,BR007,Sales Associate,4/19/2023,9300
+EMP00328,إبراهيم الدسوقي,BR008,Store Manager,9/19/2023,10700
+EMP00329,فاطمة سعيد,BR009,Inventory Clerk,8/19/2020,12200
+EMP00330,محمود سعيد,BR010,Area Manager,9/19/2022,15900
+EMP00331,حسين علي,BR011,Cashier,3/19/2020,16600
+EMP00332,يارا إبراهيم,BR012,Sales Associate,6/19/2021,14900
+EMP00333,نور الدسوقي,BR013,Sales Associate,1/19/2024,5300
+EMP00334,مريم فتحى,BR014,Store Manager,9/19/2023,8400
+EMP00335,إبراهيم فتحى,BR015,Inventory Clerk,12/19/2020,8100
+EMP00336,محمد سعيد,BR016,Area Manager,11/19/2022,13200
+EMP00337,عبدالرحمن حسن,BR017,Cashier,11/19/2023,15200
+EMP00338,يوسف محمد,BR018,Sales Associate,11/19/2018,12000
+EMP00339,سارة محمد,BR019,Sales Associate,7/19/2021,13400
+EMP00340,عبدالرحمن منصور,BR020,Store Manager,3/19/2020,18200
+EMP00341,يوسف محمد,BR021,Inventory Clerk,2/19/2021,12500
+EMP00342,إبراهيم حمادة,BR022,Area Manager,6/19/2021,17900
+EMP00343,سلمى علي,BR023,Cashier,11/19/2023,11600
+EMP00344,أحمد خليل,BR024,Sales Associate,9/19/2021,9000
+EMP00345,مصطفى محمود,BR025,Sales Associate,9/19/2022,16200
+EMP00346,عمر جابر,BR026,Store Manager,8/19/2019,7300
+EMP00347,إبراهيم فتحى,BR027,Inventory Clerk,10/19/2023,7300
+EMP00348,دعاء النجار,BR028,Area Manager,8/19/2020,8800
+EMP00349,يارا الدسوقي,BR029,Cashier,8/19/2023,7900
+EMP00350,يوسف علي,BR030,Sales Associate,2/19/2023,10500
+EMP00351,طارق إبراهيم,BR031,Sales Associate,4/19/2019,11300
+EMP00352,محمود حمادة,BR032,Store Manager,7/19/2021,16200
+EMP00353,شريف الشرقاوي,BR033,Inventory Clerk,11/19/2021,9400
+EMP00354,أمل عامر,BR034,Area Manager,3/19/2020,5800
+EMP00355,علي الشرقاوي,BR035,Cashier,11/19/2022,16300
+EMP00356,مصطفى سعيد,BR036,Sales Associate,7/19/2021,8100
+EMP00357,شريف منصور,BR037,Sales Associate,2/19/2019,8400
+EMP00358,عبدالله منصور,BR038,Store Manager,6/19/2023,7600
+EMP00359,نور مصطفى,BR039,Inventory Clerk,8/19/2022,17700
+EMP00360,دعاء الدسوقي,BR040,Area Manager,11/19/2021,13300
+EMP00361,مريم منصور,BR041,Cashier,2/19/2023,6700
+EMP00362,أحمد منصور,BR042,Sales Associate,7/19/2021,14300
+EMP00363,دعاء حسن,BR043,Sales Associate,10/19/2018,17200
+EMP00364,نور علي,BR044,Store Manager,3/19/2021,14900
+EMP00365,محمد النجار,BR045,Inventory Clerk,2/19/2023,5600
+EMP00366,عبدالرحمن فتحى,BR046,Area Manager,12/19/2022,13100
+EMP00367,خالد السيد,BR047,Cashier,10/19/2021,11800
+EMP00368,كريم إبراهيم,BR048,Sales Associate,11/19/2023,11300
+EMP00369,مصطفى علي,BR049,Sales Associate,5/19/2019,17500
+EMP00370,نور منصور,BR050,Store Manager,12/19/2022,6100
+EMP00371,سلمى خليل,BR051,Inventory Clerk,9/19/2020,14200
+EMP00372,محمد سعيد,BR052,Area Manager,8/19/2020,12300
+EMP00373,منى حمادة,BR053,Cashier,11/19/2022,13600
+EMP00374,أسماء حمادة,BR054,Sales Associate,11/19/2022,16700
+EMP00375,خالد فتحى,BR055,Sales Associate,6/19/2022,9600
+EMP00376,دعاء علي,BR056,Store Manager,12/19/2023,16500
+EMP00377,مصطفى السيد,BR057,Inventory Clerk,12/19/2022,15700
+EMP00378,يوسف عامر,BR058,Area Manager,5/19/2020,8400
+EMP00379,حسين منصور,BR059,Cashier,7/19/2022,18100
+EMP00380,يوسف الشريف,BR060,Sales Associate,1/19/2024,9300
+EMP00381,طارق حسن,BR061,Sales Associate,4/19/2021,13600
+EMP00382,محمود محمود,BR062,Store Manager,5/19/2023,14900
+EMP00383,أسماء حسن,BR063,Inventory Clerk,8/19/2020,11600
+EMP00384,سارة عبدالعزيز,BR064,Area Manager,1/19/2020,15500
+EMP00385,سارة خليل,BR065,Cashier,3/19/2024,10500
+EMP00386,شريف شعبان,BR066,Sales Associate,8/19/2022,12100
+EMP00387,يارا عبدالفتاح,BR067,Sales Associate,8/19/2019,15500
+EMP00388,طارق حمادة,BR068,Store Manager,4/19/2019,15300
+EMP00389,أمل عبدالفتاح,BR069,Inventory Clerk,10/19/2018,17600
+EMP00390,شريف الشرقاوي,BR070,Area Manager,4/19/2019,15900
+EMP00391,إبراهيم النجار,BR071,Cashier,1/19/2023,9900
+EMP00392,خالد سعيد,BR072,Sales Associate,1/19/2019,13700
+EMP00393,فاطمة محمود,BR073,Sales Associate,4/19/2019,12100
+EMP00394,أحمد عبدالفتاح,BR074,Store Manager,6/19/2022,18300
+EMP00395,مريم محمد,BR075,Inventory Clerk,11/19/2023,6000
+EMP00396,منى علي,BR076,Area Manager,4/19/2023,10500
+EMP00397,مريم النجار,BR077,Cashier,11/19/2021,9300
+EMP00398,يارا علي,BR078,Sales Associate,10/19/2018,6800
+EMP00399,نور منصور,BR079,Sales Associate,3/19/2020,7800
+EMP00400,هبة الدسوقي,BR080,Store Manager,3/19/2024,6100
+EMP00401,شريف حسن,BR001,Inventory Clerk,6/19/2020,13700
+EMP00402,نور الدسوقي,BR002,Area Manager,1/19/2023,6500
+EMP00403,سلمى فتحى,BR003,Cashier,8/19/2020,8400
+EMP00404,مريم منصور,BR004,Sales Associate,10/19/2019,17300
+EMP00405,شريف مصطفى,BR005,Sales Associate,3/19/2020,15600
+EMP00406,طارق فتحى,BR006,Store Manager,7/19/2020,11400
+EMP00407,سارة عبدالفتاح,BR007,Inventory Clerk,2/19/2024,5900
+EMP00408,فاطمة جابر,BR008,Area Manager,3/19/2023,17400
+EMP00409,شريف عامر,BR009,Cashier,6/19/2020,16300
+EMP00410,يارا شعبان,BR010,Sales Associate,4/19/2023,9700
+EMP00411,كريم عبدالعزيز,BR011,Sales Associate,3/19/2021,11400
+EMP00412,حسين عبدالعزيز,BR012,Store Manager,10/19/2023,11200
+EMP00413,نور الشرقاوي,BR013,Inventory Clerk,11/19/2019,10100
+EMP00414,عبدالله علي,BR014,Area Manager,3/19/2021,5400
+EMP00415,عبدالرحمن عبدالفتاح,BR015,Cashier,10/19/2021,15400
+EMP00416,فاطمة شعبان,BR016,Sales Associate,3/19/2022,9500
+EMP00417,عبدالرحمن جابر,BR017,Sales Associate,11/19/2018,6400
+EMP00418,عبدالرحمن محمد,BR018,Store Manager,6/19/2023,13200
+EMP00419,حسين محمد,BR019,Inventory Clerk,4/19/2023,8700
+EMP00420,كريم عبدالعزيز,BR020,Area Manager,2/19/2019,17400
+EMP00421,مصطفى حسن,BR021,Cashier,9/19/2022,8000
+EMP00422,يارا حسن,BR022,Sales Associate,9/19/2021,17000
+EMP00423,علي فتحى,BR023,Sales Associate,12/19/2019,8000
+EMP00424,عبدالله علي,BR024,Store Manager,8/19/2021,9600
+EMP00425,محمود الشرقاوي,BR025,Inventory Clerk,10/19/2020,14000
+EMP00426,علي علي,BR026,Area Manager,3/19/2023,11100
+EMP00427,إبراهيم علي,BR027,Cashier,11/19/2018,14400
+EMP00428,شريف سعيد,BR028,Sales Associate,10/19/2022,12100
+EMP00429,كريم مصطفى,BR029,Sales Associate,4/19/2023,8500
+EMP00430,شريف منصور,BR030,Store Manager,11/19/2021,15100
+EMP00431,حسين إبراهيم,BR031,Inventory Clerk,5/19/2022,9400
+EMP00432,أمل عبدالفتاح,BR032,Area Manager,1/19/2023,10200
+EMP00433,هبة محمود,BR033,Cashier,2/19/2023,10300
+EMP00434,حسين إبراهيم,BR034,Sales Associate,2/19/2020,9400
+EMP00435,منى محمود,BR035,Sales Associate,6/19/2022,13600
+EMP00436,أحمد محمد,BR036,Store Manager,2/19/2019,16900
+EMP00437,حسين خليل,BR037,Inventory Clerk,7/19/2023,8800
+EMP00438,خالد محمد,BR038,Area Manager,3/19/2022,8100
+EMP00439,أحمد حمادة,BR039,Cashier,4/19/2021,12600
+EMP00440,عبدالله الشرقاوي,BR040,Sales Associate,4/19/2022,14800
+EMP00441,شريف حمادة,BR041,Sales Associate,1/19/2020,13400
+EMP00442,دعاء حسن,BR042,Store Manager,3/19/2024,17700
+EMP00443,شريف محمد,BR043,Inventory Clerk,3/19/2023,10200
+EMP00444,عبدالرحمن مصطفى,BR044,Area Manager,8/19/2022,11300
+EMP00445,مريم الشريف,BR045,Cashier,9/19/2022,11300
+EMP00446,يارا الدسوقي,BR046,Sales Associate,1/19/2023,7000
+EMP00447,يوسف منصور,BR047,Sales Associate,4/19/2019,17400
+EMP00448,رانيا الدسوقي,BR048,Store Manager,6/19/2020,9300
+EMP00449,حسين النجار,BR049,Inventory Clerk,1/19/2021,5900
+EMP00450,محمود محمود,BR050,Area Manager,1/19/2022,7800
+EMP00451,مريم النجار,BR051,Cashier,3/19/2022,16800
+EMP00452,علي فتحى,BR052,Sales Associate,1/19/2021,5700
+EMP00453,خالد عبدالفتاح,BR053,Sales Associate,10/19/2020,11900
+EMP00454,سلمى فتحى,BR054,Store Manager,6/19/2021,12300
+EMP00455,حسين محمود,BR055,Inventory Clerk,2/19/2019,7800
+EMP00456,نور خليل,BR056,Area Manager,10/19/2023,16300
+EMP00457,يارا عبدالعزيز,BR057,Cashier,2/19/2022,13000
+EMP00458,علي سعيد,BR058,Sales Associate,12/19/2019,11200
+EMP00459,دعاء خليل,BR059,Sales Associate,8/19/2022,15600
+EMP00460,منى علي,BR060,Store Manager,8/19/2021,13200
+EMP00461,شريف الدسوقي,BR061,Inventory Clerk,12/19/2021,14700
+EMP00462,مريم إبراهيم,BR062,Area Manager,4/19/2019,18400
+EMP00463,فاطمة جابر,BR063,Cashier,12/19/2019,16400
+EMP00464,عبدالله الشريف,BR064,Sales Associate,11/19/2023,8600
+EMP00465,منى مصطفى,BR065,Sales Associate,11/19/2021,16600
+EMP00466,علي سعيد,BR066,Store Manager,5/19/2020,15900
+EMP00467,فاطمة منصور,BR067,Inventory Clerk,4/19/2023,12000
+EMP00468,حسين عبدالعزيز,BR068,Area Manager,6/19/2019,12900
+EMP00469,يوسف عبدالعزيز,BR069,Cashier,2/19/2021,8400
+EMP00470,خالد خليل,BR070,Sales Associate,1/19/2023,5700
+EMP00471,خالد حمادة,BR071,Sales Associate,11/19/2023,12900
+EMP00472,شريف علي,BR072,Store Manager,11/19/2020,15700
+EMP00473,رانيا السيد,BR073,Inventory Clerk,8/19/2020,12900
+EMP00474,فاطمة حمادة,BR074,Area Manager,1/19/2019,11400
+EMP00475,رانيا منصور,BR075,Cashier,10/19/2018,13400
+EMP00476,حسين النجار,BR076,Sales Associate,12/19/2018,16300
+EMP00477,محمود حسن,BR077,Sales Associate,8/19/2020,11300
+EMP00478,علي جابر,BR078,Store Manager,4/19/2020,7500
+EMP00479,هبة شعبان,BR079,Inventory Clerk,5/19/2023,15200
+EMP00480,سلمى حمادة,BR080,Area Manager,2/19/2024,13500
+EMP00481,عمر عبدالفتاح,BR001,Cashier,12/19/2023,14900
+EMP00482,خالد محمد,BR002,Sales Associate,2/19/2020,12700
+EMP00483,دعاء محمود,BR003,Sales Associate,2/19/2020,8200
+EMP00484,مصطفى مصطفى,BR004,Store Manager,3/19/2019,12700
+EMP00485,كريم محمود,BR005,Inventory Clerk,12/19/2023,13000
+EMP00486,دعاء فتحى,BR006,Area Manager,7/19/2019,7600
+EMP00487,دعاء فتحى,BR007,Cashier,7/19/2023,10000
+EMP00488,هبة حمادة,BR008,Sales Associate,8/19/2023,18200
+EMP00489,عبدالرحمن خليل,BR009,Sales Associate,12/19/2020,8200
+EMP00490,خالد الشرقاوي,BR010,Store Manager,5/19/2021,14500
+EMP00491,محمد الدسوقي,BR011,Inventory Clerk,8/19/2023,7200
+EMP00492,يارا فتحى,BR012,Area Manager,9/19/2020,12100
+EMP00493,مريم شعبان,BR013,Cashier,12/19/2023,14000
+EMP00494,سارة منصور,BR014,Sales Associate,10/19/2023,6700
+EMP00495,يارا سعيد,BR015,Sales Associate,1/19/2024,15400
+EMP00496,هبة السيد,BR016,Store Manager,5/19/2019,12700
+EMP00497,أسماء السيد,BR017,Inventory Clerk,5/19/2020,15200
+EMP00498,شريف حمادة,BR018,Area Manager,9/19/2022,7600
+EMP00499,إبراهيم حمادة,BR019,Cashier,3/19/2019,7600
+EMP00500,طارق النجار,BR020,Sales Associate,11/19/2019,11100
+EMP00501,محمد شعبان,BR021,Sales Associate,3/19/2019,12300
+EMP00502,هبة إبراهيم,BR022,Store Manager,4/19/2020,15000
+EMP00503,إبراهيم عامر,BR023,Inventory Clerk,10/19/2023,7100
+EMP00504,مصطفى محمود,BR024,Area Manager,10/19/2020,8000
+EMP00505,منى السيد,BR025,Cashier,12/19/2018,16800
+EMP00506,سارة إبراهيم,BR026,Sales Associate,10/19/2019,15000
+EMP00507,مريم الشريف,BR027,Sales Associate,12/19/2023,18100
+EMP00508,محمد مصطفى,BR028,Store Manager,2/19/2021,13200
+EMP00509,رانيا الشريف,BR029,Inventory Clerk,9/19/2020,7300
+EMP00510,محمود حمادة,BR030,Area Manager,9/19/2020,7600
+EMP00511,رانيا الشريف,BR031,Cashier,7/19/2022,14100
+EMP00512,رانيا سعيد,BR032,Sales Associate,3/19/2019,10700
+EMP00513,عبدالله حمادة,BR033,Sales Associate,6/19/2020,15700
+EMP00514,محمد فتحى,BR034,Store Manager,1/19/2024,9400
+EMP00515,كريم سعيد,BR035,Inventory Clerk,7/19/2019,15100
+EMP00516,أمل منصور,BR036,Area Manager,6/19/2020,14800
+EMP00517,يارا علي,BR037,Cashier,1/19/2024,11000
+EMP00518,عبدالله فتحى,BR038,Sales Associate,6/19/2022,12900
+EMP00519,أحمد عبدالعزيز,BR039,Sales Associate,10/19/2019,6200
+EMP00520,محمود فتحى,BR040,Store Manager,3/19/2023,16600
+EMP00521,رانيا إبراهيم,BR041,Inventory Clerk,2/19/2021,5700
+EMP00522,حسين علي,BR042,Area Manager,4/19/2019,9700
+EMP00523,عبدالرحمن مصطفى,BR043,Cashier,8/19/2020,9700
+EMP00524,محمد عبدالعزيز,BR044,Sales Associate,12/19/2023,16200
+EMP00525,خالد مصطفى,BR045,Sales Associate,2/19/2021,10500
+EMP00526,أمل الشريف,BR046,Store Manager,5/19/2020,11000
+EMP00527,كريم الشرقاوي,BR047,Inventory Clerk,4/19/2021,17000
+EMP00528,طارق علي,BR048,Area Manager,5/19/2019,11300
+EMP00529,خالد مصطفى,BR049,Cashier,1/19/2019,12200
+EMP00530,علي السيد,BR050,Sales Associate,7/19/2021,9800
+EMP00531,عبدالرحمن الدسوقي,BR051,Sales Associate,8/19/2023,12200
+EMP00532,عبدالرحمن السيد,BR052,Store Manager,1/19/2020,17300
+EMP00533,إبراهيم سعيد,BR053,Inventory Clerk,12/19/2020,7100
+EMP00534,حسين جابر,BR054,Area Manager,10/19/2018,7300
+EMP00535,محمد حسن,BR055,Cashier,5/19/2020,11600
+EMP00536,عبدالله حمادة,BR056,Sales Associate,12/19/2018,14000
+EMP00537,مصطفى عبدالعزيز,BR057,Sales Associate,12/19/2021,17800
+EMP00538,فاطمة الشرقاوي,BR058,Store Manager,4/19/2021,17700
+EMP00539,رانيا منصور,BR059,Inventory Clerk,7/19/2021,17300
+EMP00540,شريف الدسوقي,BR060,Area Manager,6/19/2023,6300
+EMP00541,طارق فتحى,BR061,Cashier,10/19/2020,6900
+EMP00542,دعاء حسن,BR062,Sales Associate,4/19/2023,14000
+EMP00543,أحمد النجار,BR063,Sales Associate,6/19/2021,9300
+EMP00544,هبة الشرقاوي,BR064,Store Manager,2/19/2022,13200
+EMP00545,أحمد عبدالعزيز,BR065,Inventory Clerk,8/19/2021,16200
+EMP00546,أحمد السيد,BR066,Area Manager,11/19/2022,13200
+EMP00547,يوسف محمد,BR067,Cashier,1/19/2020,9800
+EMP00548,مصطفى خليل,BR068,Sales Associate,3/19/2024,6600
+EMP00549,يارا جابر,BR069,Sales Associate,3/19/2024,11400
+EMP00550,دعاء جابر,BR070,Store Manager,11/19/2020,8000
+EMP00551,فاطمة السيد,BR071,Inventory Clerk,7/19/2021,12900
+EMP00552,عمر خليل,BR072,Area Manager,6/19/2021,12400
+EMP00553,طارق عامر,BR073,Cashier,5/19/2021,5300
+EMP00554,كريم عبدالفتاح,BR074,Sales Associate,11/19/2021,12500
+EMP00555,أمل منصور,BR075,Sales Associate,10/19/2021,16200
+EMP00556,مريم السيد,BR076,Store Manager,11/19/2022,11200
+EMP00557,مريم سعيد,BR077,Inventory Clerk,10/19/2018,9100
+EMP00558,محمد الدسوقي,BR078,Area Manager,7/19/2019,8300
+EMP00559,عبدالله محمد,BR079,Cashier,10/19/2020,6200
+EMP00560,أحمد سعيد,BR080,Sales Associate,11/19/2019,17000
+EMP00561,مصطفى جابر,BR001,Sales Associate,3/19/2021,5800
+EMP00562,عبدالله فتحى,BR002,Store Manager,10/19/2022,18300
+EMP00563,أمل خليل,BR003,Inventory Clerk,4/19/2019,17400
+EMP00564,شريف إبراهيم,BR004,Area Manager,6/19/2020,9400
+EMP00565,طارق النجار,BR005,Cashier,11/19/2020,10100
+EMP00566,منى عبدالعزيز,BR006,Sales Associate,12/19/2020,10700
+EMP00567,سلمى الدسوقي,BR007,Sales Associate,9/19/2022,13900
+EMP00568,كريم فتحى,BR008,Store Manager,9/19/2021,8300
+EMP00569,رانيا شعبان,BR009,Inventory Clerk,1/19/2022,18000
+EMP00570,سلمى جابر,BR010,Area Manager,10/19/2021,15000
+EMP00571,طارق الشريف,BR011,Cashier,3/19/2024,16500
+EMP00572,دعاء عامر,BR012,Sales Associate,10/19/2023,17300
+EMP00573,إبراهيم الشريف,BR013,Sales Associate,9/19/2023,13900
+EMP00574,يارا علي,BR014,Store Manager,1/19/2022,12400
+EMP00575,سارة عبدالعزيز,BR015,Inventory Clerk,5/19/2019,5400
+EMP00576,مريم حسن,BR016,Area Manager,5/19/2022,9600
+EMP00577,كريم الشريف,BR017,Cashier,4/19/2020,7800
+EMP00578,دعاء عامر,BR018,Sales Associate,2/19/2021,8300
+EMP00579,مصطفى الدسوقي,BR019,Sales Associate,4/19/2023,7200
+EMP00580,سارة إبراهيم,BR020,Store Manager,6/19/2022,14000
+EMP00581,سارة السيد,BR021,Inventory Clerk,1/19/2019,8400
+EMP00582,طارق حسن,BR022,Area Manager,8/19/2019,16400
+EMP00583,محمد عبدالعزيز,BR023,Cashier,1/19/2022,8800
+EMP00584,سارة سعيد,BR024,Sales Associate,3/19/2020,16800
+EMP00585,محمد فتحى,BR025,Sales Associate,3/19/2022,13900
+EMP00586,طارق مصطفى,BR026,Store Manager,2/19/2021,13200
+EMP00587,علي حمادة,BR027,Inventory Clerk,1/19/2020,17100
+EMP00588,عبدالرحمن مصطفى,BR028,Area Manager,12/19/2018,7100
+EMP00589,شريف شعبان,BR029,Cashier,1/19/2022,17800
+EMP00590,عبدالله فتحى,BR030,Sales Associate,1/19/2021,9500
+EMP00591,رانيا الدسوقي,BR031,Sales Associate,10/19/2020,12000
+EMP00592,كريم جابر,BR032,Store Manager,8/19/2020,8500
+EMP00593,عمر محمود,BR033,Inventory Clerk,4/19/2019,12200
+EMP00594,أحمد علي,BR034,Area Manager,2/19/2023,6600
+EMP00595,عبدالله الدسوقي,BR035,Cashier,3/19/2021,15900
+EMP00596,خالد شعبان,BR036,Sales Associate,10/19/2021,13900
+EMP00597,علي عبدالفتاح,BR037,Sales Associate,12/19/2018,10200
+EMP00598,محمود جابر,BR038,Store Manager,6/19/2022,5400
+EMP00599,مصطفى حسن,BR039,Inventory Clerk,11/19/2018,12500
+EMP00600,دعاء جابر,BR040,Area Manager,6/19/2021,9800
+EMP00601,طارق فتحى,BR041,Cashier,6/19/2019,14400
+EMP00602,فاطمة الشرقاوي,BR042,Sales Associate,12/19/2022,10900
+EMP00603,أمل خليل,BR043,Sales Associate,2/19/2021,8800
+EMP00604,يوسف محمود,BR044,Store Manager,8/19/2019,16000
+EMP00605,إبراهيم الدسوقي,BR045,Inventory Clerk,12/19/2021,9900
+EMP00606,سلمى السيد,BR046,Area Manager,9/19/2019,17900
+EMP00607,مصطفى علي,BR047,Cashier,9/19/2020,18100
+EMP00608,يارا الدسوقي,BR048,Sales Associate,8/19/2022,15600
+EMP00609,منى السيد,BR049,Sales Associate,12/19/2022,10400
+EMP00610,إبراهيم الشرقاوي,BR050,Store Manager,3/19/2021,5500
+EMP00611,يارا حسن,BR051,Inventory Clerk,3/19/2022,15200
+EMP00612,نور فتحى,BR052,Area Manager,11/19/2021,14900
+EMP00613,فاطمة حسن,BR053,Cashier,7/19/2020,5300
+EMP00614,يوسف مصطفى,BR054,Sales Associate,8/19/2021,14200
+EMP00615,خالد السيد,BR055,Sales Associate,11/19/2019,12300
+EMP00616,دعاء السيد,BR056,Store Manager,11/19/2022,8700
+EMP00617,علي السيد,BR057,Inventory Clerk,12/19/2022,13000
+EMP00618,هبة جابر,BR058,Area Manager,7/19/2019,15300
+EMP00619,حسين علي,BR059,Cashier,1/19/2023,14500
+EMP00620,كريم مصطفى,BR060,Sales Associate,4/19/2022,5800
+EMP00621,عبدالله الدسوقي,BR061,Sales Associate,3/19/2023,15100
+EMP00622,فاطمة الدسوقي,BR062,Store Manager,10/19/2020,15900
+EMP00623,عمر علي,BR063,Inventory Clerk,7/19/2022,16900
+EMP00624,سارة عامر,BR064,Area Manager,10/19/2019,16700
+EMP00625,علي عبدالفتاح,BR065,Cashier,12/19/2018,14300
+EMP00626,أحمد النجار,BR066,Sales Associate,2/19/2021,11500
+EMP00627,سلمى شعبان,BR067,Sales Associate,3/19/2020,8200
+EMP00628,دعاء السيد,BR068,Store Manager,9/19/2019,16700
+EMP00629,مريم الشريف,BR069,Inventory Clerk,9/19/2022,9600
+EMP00630,مريم الشرقاوي,BR070,Area Manager,2/19/2024,11200
+EMP00631,إبراهيم مصطفى,BR071,Cashier,3/19/2024,7000
+EMP00632,منى النجار,BR072,Sales Associate,11/19/2020,13500
+EMP00633,أحمد فتحى,BR073,Sales Associate,10/19/2020,11400
+EMP00634,فاطمة سعيد,BR074,Store Manager,11/19/2020,13600
+EMP00635,منى منصور,BR075,Inventory Clerk,7/19/2021,12800
+EMP00636,أسماء جابر,BR076,Area Manager,4/19/2020,13100
+EMP00637,مصطفى منصور,BR077,Cashier,3/19/2020,13700
+EMP00638,خالد منصور,BR078,Sales Associate,7/19/2023,12100
+EMP00639,دعاء حمادة,BR079,Sales Associate,12/19/2021,11000
+EMP00640,هبة الدسوقي,BR080,Store Manager,4/19/2021,10400
